@@ -1,0 +1,11 @@
+# Topic : Usage of MySejahtera apps (check in usage, location, tracing)  and Covid-19 cases recorded, Looking into the compliancy and effect/usage of the apps towards Covid-19 cases in Malaysia
+# Time frame : 1 year (Dec 2020 – June 2022)
+
+# Things to do to kickstart our project:
+- data merging (from few csv files) - Khairul
+- data cleaning (look for missing values) - An Jifeng
+- data extracting - Chow TK
+- data transform (data analysis) Chow TK, Khairul, An Jifeng
+- Report : Chow TK
+- Presentation slides preparation : Khairul
+- Presentation : An Jifeng
