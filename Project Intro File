@@ -2,13 +2,18 @@
 # Time frame : 1 year (Dec 2020 – June 2022)
 
 # Things to do to kickstart our project:
-- data merging (from few csv files) - Khairul
-- data cleaning (look for missing values) - An Jifeng
-- data extracting - Chow TK
-- data transform (data analysis) Chow TK, Khairul, An Jifeng
-- Report : Chow TK
-- Presentation slides preparation : Khairul 
-- Presentation : An Jifeng 
+- data merging (from few csv files) - Chow TK
+ -- 2 merged files (state n non state) - Tuesday 3rd Dec 2024
+- data cleaning (look for missing values) - ALL
+ -- deadline 7th Dec 2024
+Meeting Online to decide on analysis part (7th Dec 2024 Meeting)
+-- data transform (data analysis with report) 
+-- descriptive 
+-- statistical
+
+- Report compilation (Khairul) 14th Dec 2024
+- Presentation slides preparation n compilation by An Jifeng 
+- Presentation : All 3
 
 Chow: I would suggest for the report and presentation (including preparation) be done by all 3 of us. 
 Chow: Also would like to clarify - what is data extraction in this case?
